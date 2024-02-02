@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Domen2Vozvrashenie.props" />
+</Project>

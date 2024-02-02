@@ -1,0 +1,213 @@
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.csproj.AssemblyReference.cache
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.AssemblyInfoInputs.cache
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.AssemblyInfo.cs
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.csproj.CoreCompileInputs.cache
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.MvcApplicationPartsAssemblyInfo.cs
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.MvcApplicationPartsAssemblyInfo.cache
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\appsettings.Development.json
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\appsettings.json
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.exe
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.deps.json
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.runtimeconfig.json
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.pdb
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Azure.Core.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Azure.Identity.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Memory.Data.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\практика\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.Bank deposit project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.build.Bank deposit project.props
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Bank deposit project.props
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Bank deposit project.props
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets.build.json
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets.development.json
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\scopedcss\bundle\Bank deposit project.styles.css
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.csproj.CopyComplete
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.dll
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\refint\Bank deposit project.dll
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.pdb
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.genruntimeconfig.cache
+D:\практика\Bank deposit project\Bank deposit project\obj\Debug\net7.0\ref\Bank deposit project.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\refint\Bank deposit project.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.pdb
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\appsettings.json
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.exe
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.deps.json
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.runtimeconfig.json
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Bank deposit project.pdb
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.csproj.AssemblyReference.cache
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.Bank deposit project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.build.Bank deposit project.props
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Bank deposit project.props
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Bank deposit project.props
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\scopedcss\bundle\Bank deposit project.styles.css
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.csproj.CopyComplete
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\Bank deposit project.genruntimeconfig.cache
+C:\Users\Vladimir\Desktop\Bank deposit project\Bank deposit project\obj\Debug\net7.0\ref\Bank deposit project.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\appsettings.Development.json
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\appsettings.json
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Bank deposit project.exe
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Bank deposit project.deps.json
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Bank deposit project.runtimeconfig.json
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Bank deposit project.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Bank deposit project.pdb
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Azure.Core.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Azure.Identity.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\System.Drawing.Common.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\System.Memory.Data.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\System.Runtime.Caching.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\System.Security.Permissions.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\System.Windows.Extensions.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.csproj.AssemblyReference.cache
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.GeneratedMSBuildEditorConfig.editorconfig
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.AssemblyInfoInputs.cache
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.AssemblyInfo.cs
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.csproj.CoreCompileInputs.cache
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.MvcApplicationPartsAssemblyInfo.cs
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.MvcApplicationPartsAssemblyInfo.cache
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.Bank deposit project.Microsoft.AspNetCore.StaticWebAssets.props
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.build.Bank deposit project.props
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Bank deposit project.props
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Bank deposit project.props
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\staticwebassets.pack.json
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\staticwebassets.build.json
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\staticwebassets.development.json
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\scopedcss\bundle\Bank deposit project.styles.css
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.csproj.CopyComplete
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\refint\Bank deposit project.dll
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.pdb
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\Bank deposit project.genruntimeconfig.cache
+B:\радик\курсач_ТП\Bank deposit project2\Bank deposit project\obj\Debug\net7.0\ref\Bank deposit project.dll

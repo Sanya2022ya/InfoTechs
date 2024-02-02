@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Domen2Vozvrashenie.props" />
+</Project>
